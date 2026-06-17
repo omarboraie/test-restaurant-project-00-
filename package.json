@@ -1,0 +1,20 @@
+{
+  "name": "resturant",
+  "version": "1.0.0",
+  "description": "resturant system",
+  "homepage": "https://github.com/omarboraie/test-restaurant-project-00-#readme",
+  "bugs": {
+    "url": "https://github.com/omarboraie/test-restaurant-project-00-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarboraie/test-restaurant-project-00-.git"
+  },
+  "license": "ISC",
+  "author": "OmarBoraie",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
