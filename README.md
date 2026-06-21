@@ -32,3 +32,9 @@ Split into three separate files (module) =>
 - finalCalculator is exported from a separate module
 - tip adding function is inner function userRate(userRate) that returns the updated total
 ---------------------------
+
+june-21-2026 Sunday
+-------------------------
+ + make closure called newOrder that returns an object with 4 methods addItem(),removeItem(),getBill(),reset()
+ + we use order.addItem() to add order item and order.getBill() to show the bill
+ + add some security for userChoice, tax, subtotal, total
