@@ -1,5 +1,5 @@
-let menu=require('./menu.js');
-let finalCalculator=require('./calculations.js')
+let menu = require('./menu.js');
+let order = require('./calculations.js')
 
 // function that Display menu for the user
 function menuDisplay(){
@@ -26,11 +26,13 @@ function menuDisplay(){
 //The logic (main function)
 function App(){
 menuDisplay();
-let userChoice = [menu[1],menu[3],menu[7]];
 try{
-    finalCalculator(userChoice);
+    order.addItem(menu[1]);
+    order.addItem(menu[3]);
+    order.addItem(menu[7]);
+    order.getBill()
 }
-catch(error){console.log()}
+catch(error){console.log(error)}
 }
 
 //run
