@@ -38,3 +38,9 @@ june-21-2026 Sunday
  + make closure called newOrder that returns an object with 4 methods addItem(),removeItem(),getBill(),reset()
  + we use order.addItem() to add order item and order.getBill() to show the bill
  + add some security for userChoice, tax, subtotal, total
+
+june-24-2026 Wednesday
+-------------------------------
+=> Separated input module
+=> user types id to add an item or done to finish
+=> using Promise in question and input
