@@ -41,6 +41,6 @@ june-21-2026 Sunday
 
 june-24-2026 Wednesday
 -------------------------------
-> Separated input module
-> user types id to add an item or done to finish
-> using Promise in question and input
++ Separated input module
++ user types id to add an item or done to finish
++ using Promise in question and input
