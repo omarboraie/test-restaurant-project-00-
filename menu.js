@@ -6,7 +6,6 @@ class menuItem {
         this.id=id;
         this.category=category;
     }
-    static rawPrice;
 }
 //the menu as an array of objects of the class menuItem
 const menu = new Array();

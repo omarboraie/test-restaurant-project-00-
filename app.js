@@ -1,38 +1,52 @@
 let menu = require('./menu.js');
 let order = require('./calculations.js')
+let question = require('./input.js')
 
 // function that Display menu for the user
-function menuDisplay(){
-    console.log("Hello Our User \n");
-    for(let i = 0 ; i<menu.length;i++){
-        switch(menu[i].category){
-            case "starch":
-                if(i===0){console.log("Let's choose starch :");}
-                console.log(`for ${menu[i].name} choose ${menu[i].id}`);
-                break;
-            case "protein":
-                if(i===3){console.log("\nLet's choose protein :");}
-                console.log(`for ${menu[i].name} choose ${menu[i].id}`);
-                break;
-            case "sweetdish":
-                if(i===6){console.log("\nLet's choose sweetdish :");}
-                console.log(`for ${menu[i].name} choose ${menu[i].id}`);
-                break;
-        }
+function menuDisplay() {
+    console.log("Hello Our User");
+    const categories = ['starch', 'protein', 'sweetdish'];
+    categories.forEach(cat => {
+        console.log(`\nLet's choose ${cat}:`);
+        menu.filter(item => item.category === cat)
+            .forEach(item => console.log(`for ${item.name} choose ${item.id}`));
+    });
+}
+
+// The logic (main function)
+function App() {
+    menuDisplay();
+
+    let input = '';
+    function ask() {
+        return question('-type the id of the item you want or type done to finish: ')
+            .then(answer => {
+                input = answer;
+                if (input.toLowerCase() === 'done') {
+                    order.getBill();
+                    return;
+                }
+                const id = parseInt(input, 10);
+                if (isNaN(id)) {
+                    console.log('Please enter a number.');
+                    return ask();
+                }
+                const item = menu.find(it => it.id === id);
+                if (!item) {
+                    console.log(`we don't have ${id}. Try again.`);
+                    return ask();
+                }
+                try {
+                    order.addItem(item);
+                    console.log(`You add "${item.name} `);
+                } catch (error) {
+                    console.log(error);
+                }
+                return ask();
+            });
     }
 
-}
-
-//The logic (main function)
-function App(){
-menuDisplay();
-try{
-    order.addItem(menu[1]);
-    order.addItem(menu[3]);
-    order.addItem(menu[7]);
-    order.getBill()
-}
-catch(error){console.log(error)}
+    return ask();
 }
 
 //run
