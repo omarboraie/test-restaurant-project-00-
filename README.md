@@ -44,3 +44,9 @@ june-24-2026 Wednesday
 + Separated input module
 + user types id to add an item or done to finish
 + using Promise in question and input
+
+june-29-2026 Monday
+-------------------------------
++ Add OOP with abstraction and encapsulation
++ user remove item feature
++ app recursive run after finshing bill
