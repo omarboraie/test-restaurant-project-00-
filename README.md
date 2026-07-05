@@ -50,3 +50,7 @@ june-29-2026 Monday
 + Add OOP with abstraction and encapsulation
 + user remove item feature
 + app recursive run after finshing bill
+
+july-5-2026 Sunday
+-------------------------------
++ Recap Project (Alpha)
