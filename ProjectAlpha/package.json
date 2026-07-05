@@ -1,0 +1,12 @@
+{
+  "name": "projectalpha",
+  "version": "1.0.0",
+  "description": "A practising project",
+  "license": "ISC",
+  "author": "OmarBoraie",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
