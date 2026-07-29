@@ -54,3 +54,11 @@ june-29-2026 Monday
 july-5-2026 Sunday
 -------------------------------
 + Recap Project (Alpha)
+------------------------------
+july-29-2026 Wednesday
+---------------------------------
++ project layout into controllers,middleware,routes,models
++ username&password auth
++ JWT auth
++ Create Express Server
++ little database knowledge(monogDB,mongoose) creating models
