@@ -65,15 +65,15 @@ july-29-2026 Wednesday
 
 july-30-2026 Thursday
 ---------------------------------
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/anotherTypes.ts
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/app.ts
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/basics.ts
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/coreTypes.ts
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/functions.ts
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/index.html
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package-lock.json
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package.json
-https://github.com/omarboraie/test-restaurant-project-00-/blob/main/test00.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/anotherTypes.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/app.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/basics.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/coreTypes.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/functions.ts
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/index.html
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package-lock.json
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package.json
+- https://github.com/omarboraie/test-restaurant-project-00-/blob/main/test00.ts
 + What is TypeScript
 + Installing & Using TypeScript
 + The Advantages of TypeScript
