@@ -62,3 +62,37 @@ july-29-2026 Wednesday
 + JWT auth
 + Create Express Server
 + little database knowledge(monogDB,mongoose) creating models
+
+july-30-2026 Thursday
+---------------------------------
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/anotherTypes.ts
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/app.ts
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/basics.ts
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/coreTypes.ts
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/functions.ts
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/index.html
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package-lock.json
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/package.json
+https://github.com/omarboraie/test-restaurant-project-00-/blob/main/test00.ts
++ What is TypeScript
++ Installing & Using TypeScript
++ The Advantages of TypeScript
++ Setting Up our Development Environment
++ The Course Project Setup
++ Using Types
++ TypeScript Types vs JavaScript Types
++ Numbers, Strings and Booleans
++ Type Assignment and Type Inference
++ Object Types
++ Array Types
++ Tuples
++ Enums
++ The Any Type
++ Union Types
++ Literal Types
++ Type Aliases
++ Function Return Types and Void
++ Function Types
++ Function Types and Callbacks
++ The Unknown Type
++ The Never Type
