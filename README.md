@@ -96,3 +96,19 @@ july-30-2026 Thursday
 + Function Types and Callbacks
 + The Unknown Type
 + The Never Type
+
+August-2-2026 sunday
+---------------------------------
++ Module Introduction
++ Watch Node
++ Compiling the Entire Project
++ Include and Exclude Files
++ Setting a Compilation Target
++ Understanding TypeScript Libs
++ More Options
++ Source Maps
++ Rootdir and Outdir
++ noemit on Error
++ Strict Compilation Options
++ Code Quality Options
++ Debugging with Visual Studio Code
