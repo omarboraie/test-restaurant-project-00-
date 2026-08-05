@@ -112,3 +112,21 @@ August-2-2026 sunday
 + Strict Compilation Options
 + Code Quality Options
 + Debugging with Visual Studio Code
+
+August-4-2025 Tuesday
+----------------------------------
+ # Theoretical only
+ https://github.com/omarboraie/nestjs-00-JsMaster-
++ What is NestJS and Why Use It
++ NestJS vs Express – Structural Differences
++ Understanding the Core Architecture (Modules, Controllers, Services)
++ The Request Lifecycle – How a Request Flows Through the App
++ Installing NestJS CLI and Creating a New Project
++ Projects Structure Overview
++ Generating Modules, Controllers, and Services with CLI
++ Creating a Controller and Defining Routes
++ Static Routes vs Dynamic Routes – Important Order Rule
++ Extracting Data from Requests – @Query(), @Param(), and @Body()
++ Introduction to DTOs (Data Transfer Objects)
++ Using Classes vs Interfaces for DTOs
++ Using PartialType for Update Operations
