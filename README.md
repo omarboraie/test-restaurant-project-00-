@@ -115,7 +115,7 @@ August-2-2026 sunday
 
 August-4-2025 Tuesday
 ----------------------------------
- # Theoretical only
+ # Theoretical only @JSMastry
  https://github.com/omarboraie/nestjs-00-JsMaster-
 + What is NestJS and Why Use It
 + NestJS vs Express – Structural Differences
@@ -130,3 +130,23 @@ August-4-2025 Tuesday
 + Introduction to DTOs (Data Transfer Objects)
 + Using Classes vs Interfaces for DTOs
 + Using PartialType for Update Operations
+
+August-5-2026 wednesday
+-----------------------------------
+@Tarmez
++ Introduction to NestJS (Definition & Purpose)
++ Comparing Opinionated Frameworks (NestJS) vs Unopinionated Frameworks (Express)
++ Comparing NestJS to Laravel, Django, and Ruby on Rails
++ Origin of NestJS Concepts (Influenced by Angular's Architecture)
++ Course Roadmap & Objectives (What will be covered in the session)
++ Understanding the Client-Server-Database Workflow
++ Development Environment vs Production Environment (Local Simulation)
++ Setting up the Environment (Installing Node.js)
++ Creating a New Project (nest new)
++ Exploring the Project Structure (package.json scripts: start:dev)
++ Understanding the Root Module (AppModule)
++ Understanding Controllers (Receiving Requests)
++ Understanding Services (Business Logic)
++ Understanding Modules (Organizing the Application)
++ The Role of Decorators (@Controller, @Get, @Post)
++ Separation of Concerns (Keeping Logic out of Controllers)
