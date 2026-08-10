@@ -150,3 +150,19 @@ August-5-2026 wednesday
 + Understanding Modules (Organizing the Application)
 + The Role of Decorators (@Controller, @Get, @Post)
 + Separation of Concerns (Keeping Logic out of Controllers)
+
+August-9-2026 sunday
+---------------------------------------
++ The Concept of Dependency Injection
++ Inversion of Control
++ Handling Request Parameters: Query Parameters (@Query)
++ Handling Request Parameters: Route Parameters (@Param)
++ Handling Request Parameters: Body Parameters (@Body)
++ Accessing Raw Request/Response Objects (Using @Req and @Res from Express)
++ Using NestJS CLI Generators
++ Generating Complete Resources
++ Data Transfer Objects (DTOs) - Definition and Purpose
++ Modules
++ Entities
++ Introduction to ORM
+
