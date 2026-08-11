@@ -166,3 +166,11 @@ August-9-2026 sunday
 + Entities
 + Introduction to ORM
 
+August-10-2026 monday
+---------------------------------------
++ Installing and Setup MongoDB
++ ODM
++ Injecting Mongoose
++ Creating Schemas
++ Registration Schema
++ DTO
