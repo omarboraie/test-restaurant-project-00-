@@ -174,3 +174,11 @@ August-10-2026 monday
 + Creating Schemas
 + Registration Schema
 + DTO
+
+August-12-2026 wednesday
+------------------------------------------
++ DTO
++ Create and save to DB
++ Get From DB
++ Get By att from DB
++ Update
