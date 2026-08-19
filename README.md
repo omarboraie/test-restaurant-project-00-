@@ -183,3 +183,13 @@ August-12-2026 wednesday
 + Get From DB
 + Get By att from DB
 + Update
+
+August-18-2026 tuseday
+-----------------------------------------
+Field Constraints
+Nested Object Validation
+Route-Level Validation Pipes
+Handle Errors Gracefully
+Global Validation
+class-validator
+CRUD Operations
