@@ -193,3 +193,29 @@ August-18-2026 tuseday
 - Global Validation
 class-validator
 CRUD Operations
+
+August-23-2026 sunday
+------------------------------------------------
+- Used populate('settings') to retrieve related settings
+  
+----> Validation & Error Handling
+– Applied ValidationPipe globally and on endpoints
+– Added NotFoundException for missing resources
+– Fixed @ValidateNested() with @Type() for nested DTO validation
+– Made settings optional in schema to allow orders without settings
+
+----> User Module Integration
+– Created UsersModule, UsersController, UsersService (mirroring ordering)
+– Defined User and UserSettings schemas
+– Implemented CRUD with populate(['settings'])
+– Linked users to orders: added user field (ObjectId ref) in Order schema
+
+----> Payment Module & Relationships
+– Created Payment schema with amount, currency, status
+– Added orderId reference to Payment (many‑to‑one)
+– Linked Order & Payment: added optional payment field in Order
+– Updated createOrder to accept userId and store as reference
+
+– Updated OrderingService to populate user and payment when fetching orders
+
+https://github.com/omarboraie/nodejs-mongo-mongoose
