@@ -219,3 +219,14 @@ August-23-2026 sunday
 – Updated OrderingService to populate user and payment when fetching orders
 
 https://github.com/omarboraie/nodejs-mongo-mongoose
+
+
+September -3-2026 thursday
+----------------------------------------------
+https://github.com/omarboraie/vitest-js
+- Introduction to Vitest API (Definition & Core Imports: describe, it, expect)
+- Structure of Unit Test Blocks (describe suites and it test cases)  
+- Understanding the AAA (Arrange-Act-Assert) Pattern in Practice 
+- Test-Driven Development (TDD) Approach for Edge Cases (calcAvg array handling)  
+- Asserting Conditional Logic (Testing fizzBuzz outputs for multiple scenarios)  
+- Testing Edge Cases and Base Conditions (Validating zero, single elements, and recursive calls)
