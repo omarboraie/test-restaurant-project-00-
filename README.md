@@ -230,3 +230,21 @@ https://github.com/omarboraie/vitest-js
 - Test-Driven Development (TDD) Approach for Edge Cases (calcAvg array handling)  
 - Asserting Conditional Logic (Testing fizzBuzz outputs for multiple scenarios)  
 - Testing Edge Cases and Base Conditions (Validating zero, single elements, and recursive calls)
+
+September -7-2026 monday
+------------------------------------------------
+https://github.com/omarboraie/jest-ts-test
+
+* **Introduction to Jest Unit Testing (Definition & Test Report Overview)**
+
+* **Reading Automated Test Reports (Understanding Suites, Tests, and Timestamps)**
+
+* **Structure of Jest Test Files (File Paths and Naming Conventions like `src/main.test.ts`)**
+
+* **Organizing Tests with Test Suites (Grouping Cases under `toCentimeter`)**
+
+* **Testing Functions with Multiple Scenario Inputs (`0 feet 0 inches`, `3 feet 5 inches`, `6 feet 3 inches`)**
+
+* **Evaluating Test Outcomes (Understanding Passed, Failed, and Execution Durations)**
+
+* **Building Visual Dashboards for Test Metrics (CSS Variables & Layout Styling for Reports)**
