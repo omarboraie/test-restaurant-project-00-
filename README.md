@@ -264,3 +264,31 @@ https://github.com/omarboraie/mocha-testing/tree/main
 - Validating API Request URLs (Confirming the GitHub user endpoint is called with the expected username)
 -> Combining Mocha, Chai & Sinon-Chai (Using assertions and spy/stub behavior together)
 -> Error Handling in Asynchronous Tests (Passing rejected promises to done through .catch(done))
+
+Septmeber - 14 - monday
+----------------------------------------------
+Setting Up Node.js Debugging in Visual Studio Code
+Creating a Debug Configuration
+Using Breakpoints
+Starting the Debugger
+Stepping Through Code
+Inspecting Variables
+Using the Debug Console
+Watching Expressions
+Debugging Function Calls
+Handling Exceptions
+Using the Call Stack
+Debugging Node.js Applications in VS Code
+
+septmebr - 20 - sunday
+-----------------------------------------
+Introduction to Debugging Node.js Applications
+Node.js Inspector
+Connecting Node.js Inspector to Chrome DevTools
+Setting Breakpoints
+Stepping Through Code
+Evaluating JavaScript Expressions
+Debugging with Chrome DevTools
+Debugging with Visual Studio Code
+Debugging with WebSocket
+Debugging with Node.js inspect
