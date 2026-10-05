@@ -314,3 +314,11 @@ October - 4 - 2026 Sunday
 -------------------------------------------------
 https://github.com/omarboraie/order-system/
 Orders functionality and linked it with users and products
+
+October - 5 - 2026 Monday
+-------------------------------------------------
+https://github.com/omarboraie/order-system/
+Add auth module
+JWT auth
+Guards
+Intercpetor
